@@ -22,3 +22,7 @@ Example:
 mohanlal> ls
 mohanlal> pwd
 mohanlal> echo Hello
+
+## Demo
+
+![Custom Shell Demo](docs/demo.png)
