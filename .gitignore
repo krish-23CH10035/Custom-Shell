@@ -1,0 +1,15 @@
+# Compiled executable
+mysh
+
+# Object files
+*.o
+
+# Build directories
+build/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
